@@ -1,0 +1,10 @@
+Script started on 2022-01-27 23:44:12+08:00 [TERM="xterm-256color" TTY="/dev/pts/2" COLUMNS="120" LINES="30"]
+(base) ]0;benjamin@LAPTOP-A4QNUBA2: /mnt/c/Users/bcche/Desktop/Experiments/Web Dev/part12-containers-applications[01;32mbenjamin@LAPTOP-A4QNUBA2[00m:[01;34m/mnt/c/Users/bcche/Desktop/Experiments/Web Dev/part12-containers-applications[00m$ docker co ntainer run -it ubuntu bash
+]0;root@7afb37766a07: /root@7afb37766a07:/# [K]0;root@7afb37766a07: /root@7afb37766a07:/# mkdir /usr/src/app
+]0;root@7afb37766a07: /root@7afb37766a07:/# touch /usr/src/app/index.js
+]0;root@7afb37766a07: /root@7afb37766a07:/# [Kexit
+exit
+(base) ]0;benjamin@LAPTOP-A4QNUBA2: /mnt/c/Users/bcche/Desktop/Experiments/Web Dev/part12-containers-applications[01;32mbenjamin@LAPTOP-A4QNUBA2[00m:[01;34m/mnt/c/Users/bcche/Desktop/Experiments/Web Dev/part12-containers-applications[00m$ exit
+exit
+
+Script done on 2022-01-27 23:45:00+08:00 [COMMAND_EXIT_CODE="0"]
